@@ -13,3 +13,15 @@ nav{
 .intro>p{
     font-size: 20px;
 }
+
+footer{
+    background-color: #555555;
+}
+
+footer p,h5, .footer-copyright{
+    color: white;
+}
+
+.botoesCores button{
+    margin-right: 30px;
+}

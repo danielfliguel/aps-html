@@ -2,6 +2,10 @@ body{
     background-color: #ABEC54;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 nav{
     background-color: transparent;
 }
@@ -24,4 +28,9 @@ footer p,h5, .footer-copyright{
 
 .botoesCores button{
     margin-right: 30px;
+}
+
+.paragrafo p{
+    text-align: justify;
+    font-weight: 600; 
 }

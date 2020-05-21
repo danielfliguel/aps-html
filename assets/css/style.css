@@ -22,7 +22,7 @@ footer{
     background-color: #555555;
 }
 
-footer p,h5, .footer-copyright{
+footer p, footer h5, .footer-copyright{
     color: white;
 }
 
@@ -33,4 +33,27 @@ footer p,h5, .footer-copyright{
 .paragrafo p{
     text-align: justify;
     font-weight: 600; 
+}
+
+footer a{
+    color: white;
+}
+
+footer a:hover{
+    color: #ABEC54;
+}
+
+.btn-primary{
+    background-color: #f8f9fa!important;
+    border-color: black!important;
+    color: black!important;    
+}
+
+.enviarNewsletter{
+    background-color: #f8f9fa;
+    border-color: none!important;
+}
+
+.botoesCores button{
+    border-radius: 15px;
 }
